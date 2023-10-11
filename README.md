@@ -6,6 +6,7 @@ The system is designed according to the following instructions:
 a. 10 classes
 
 b. 3 inheritances at least one as multiple
+
 c. 2 classes with dynamic allocations
 
 d. 2 classes with arrays
